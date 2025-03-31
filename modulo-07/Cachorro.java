@@ -22,4 +22,21 @@ public class Cachorro {
     public void andar() {
 
     }
+
+    public void sentar() {
+
+    }
+
+    public void deitar() {
+
+    }
+
+    public void levantar() {
+
+    }
+
+    public void dormir() {
+
+    }
+
 }
